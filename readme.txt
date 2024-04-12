@@ -9,4 +9,3 @@ issue101-bug
 new work
 D:\anotherGit\learnGIt\readme.txt
 new try12345
-D:\anotherGit\learnGIt\readme.txt
