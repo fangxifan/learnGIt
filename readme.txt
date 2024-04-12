@@ -6,3 +6,5 @@ creating a new branch is quick and simple.
 dev ->new 
 dev ->new2 
 issue101-bug
+new work
+D:\anotherGit\learnGIt\readme.txt
