@@ -8,4 +8,9 @@ dev ->new2
 issue101-bug
 new work
 D:\anotherGit\learnGIt\readme.txt
+
+//conflict
 new try12345612
+
+new try12345611
+
